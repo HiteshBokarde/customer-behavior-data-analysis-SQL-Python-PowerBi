@@ -18,12 +18,12 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 🛠️ How to Use This Project
 
-Clone the repository
+1.Clone the repository
 
-bash   git clone https://github.com/HiteshBokarde/customer-behavior-data-analysis-SQL-Python-PowerBI.git
+  git clone https://github.com/HiteshBokarde/customer-behavior-data-analysis-SQL-Python-PowerBI.git
    cd customer-behavior-data-analysis-SQL-Python-PowerBI
 
-Open Customer_Shopping_Behavior_Analysis.ipynb notebook
+2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 This file contains:
 
 Data Import
@@ -32,7 +32,7 @@ Data cleaning
 Connection to SQL Database
 
 
-Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
+3.Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
 
 Create a database in SQL
 Run Python code to load data into SQL database
@@ -40,13 +40,13 @@ Open customer_behavior_sql_queries.sql
 Answer Business Questions using SQL Queries
 
 
-Connect the SQL Database to Power BI
+4.Connect the SQL Database to Power BI
 
 Open customer_behavior_dashboard.pbix
 Create interactive dashboard in Power BI
 
 
-Create Project Report and Presentation
+5.Create Project Report and Presentation
 
 Create project report
 Build presentation deck using Gamma AI
